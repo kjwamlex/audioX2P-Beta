@@ -9,5 +9,7 @@ When you tap a music, it will take a second or two to play music: this is done t
 
 # Requirements
 iPhone 8 or later (idk about iPhone 7)
+
 iOS 13 or later as Core Haptics is only available on iOS 13.
+
 Music in native Music app.
