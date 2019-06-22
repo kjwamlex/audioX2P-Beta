@@ -1,5 +1,5 @@
 # hapticAudio
-hapticAudio turns muisc into continuous, linear haptic feedback.
+hapticAudio turns music into continuous, linear haptic feedback.
 
 Original project was called TapticMusic, which was published 2 years ago.
 
