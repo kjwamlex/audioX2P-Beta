@@ -1,5 +1,5 @@
-# hapticAudio
-hapticAudio turns music into continuous, linear haptic feedback.
+# audioX2P
+audioX2P turns music into continuous, linear haptic feedback using X2P (Extreme Experience Portable)
 
 Original project was called TapticMusic, which was published 2 years ago.
 
