@@ -16,7 +16,7 @@ Music in native Music app (Apple Music not compatible)
 
 - X2P rather than Bass Detection System.
 
-X2P fully analyzes audio file and turns them into numbers that can be used to be played on Taptic Engine using Core Haptics. It optimizes its haptics for each music file so that music feels great in your hands.
+X2P fully analyzes audio file and turns them into numbers that can be used to be played on Taptic Engine using Core Haptics. It optimizes its haptics for each music file so that music feels great in your hands and deliver incredible details.
 
 - Performance and Energy
 
